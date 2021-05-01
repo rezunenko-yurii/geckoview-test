@@ -1,0 +1,2 @@
+C:/Job/UnityOculusAndroidVRBrowser/GeckoViewPlugin/app/.externalNativeBuild/cmake/armDebug/x86_64/CMakeFiles/edit_cache.dir
+C:/Job/UnityOculusAndroidVRBrowser/GeckoViewPlugin/app/.externalNativeBuild/cmake/armDebug/x86_64/CMakeFiles/rebuild_cache.dir
